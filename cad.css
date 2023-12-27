@@ -1,0 +1,139 @@
+#abc{
+    background-image: url(https://avelina.qodeinteractive.com/wp-content/uploads/2023/06/side-view-white-chocolate-bars-with-chocolate-wrapped-white-paper-with-gold-ribbons.jpg);
+    background-size: cover; 
+    height: 200px;
+  }
+  #head{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #8f2f03;
+    text-shadow: 1px 1px 1px white;
+    padding-top: 70px;
+  }
+.responsive{
+  width: 100%;
+}
+#had{
+    font-size: 40px;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 40px;
+    font-style: italic;
+    text-shadow: 1px 1px 2px chocolate;
+}
+  .navbar-nav{
+    border: 1px solid #8f2f03;
+    border-radius: 2%;
+    background: linear-gradient(to right,white,bisque,pink);
+  }
+  #navi{
+    color: #8f2f03;
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 30px;
+  }
+  #nav{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: white;
+  }
+  .na{
+    color: brown;
+  }
+  .choose{
+    text-align: center;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #fr{
+    text-align: center;
+    color: rgb(241, 168, 11);
+    font-size: 32px;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .card-body{
+    text-align: center;
+  }
+  #bg{
+    background: linear-gradient(to right,bisque,peru,rgb(165, 42, 155));
+  }
+  #hh{
+    color: rgb(231, 155, 15);
+    padding: 10px;
+    margin-left: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  #gg{
+    margin-left: 50px;
+  }
+  #tr{
+    color: rgb(214, 122, 141);
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 25px;
+  }  
+  .can{
+    margin-left: 50px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    margin-right: 30px;
+  
+  } 
+  #cc{
+    border-radius: 85%;
+    box-shadow: 10px 10px 10px rgb(194, 122, 93);
+    
+  }
+  #ex{
+    color: peru;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 3px yellowgreen;
+    line-height: 48px;
+  }
+  #tre{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    margin-top: 100px;
+    font-size: 25px;
+  } 
+  #but{
+    margin-left: 240px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+#get{
+    color: brown;
+  }
+.fic{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+  }
+footer{
+    background-color: #2E1A13;
+    padding-top: 10px;
+   
+  }
+#git{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+.card{
+    transition: all 0.3s;
+  }
+.card:hover {
+    transform: scale(1.10);
+  }
+  
+  
+  
+    
